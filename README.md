@@ -12,7 +12,7 @@ I architect and build production AI systems — from multi-agent orchestration t
 
 | Project | Description |
 |---------|-------------|
-| [autonomous-agents](https://github.com/KeepALifeUS/autonomous-agents) | Multi-agent orchestration via stigmergy. 4 AI agents coordinating with Claude API. 80% token reduction. |
+| [multi-agent-orchestration](https://github.com/KeepALifeUS/multi-agent-orchestration) | Multi-agent orchestration via stigmergy. 4 AI agents coordinating with Claude API. 80% token reduction. |
 | [ml-ppo](https://github.com/KeepALifeUS/ml-ppo) | PPO implementation from scratch: GAE, parallel envs, continuous & discrete actions. PyTorch. |
 | [ml-dqn](https://github.com/KeepALifeUS/ml-dqn) | Rainbow DQN: Double DQN, Dueling, PER, Noisy Nets. Atari benchmarks. PyTorch. |
 | [ddd-analytics-domain](https://github.com/KeepALifeUS/ddd-analytics-domain) | DDD bounded context for financial analytics: ROI, Sharpe Ratio, Max Drawdown. TypeScript. |
